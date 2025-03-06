@@ -1,4 +1,4 @@
-# exam-ratt
+# Voting app
 
 Link to deployed app: 
 
